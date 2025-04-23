@@ -1,3 +1,5 @@
+//alizalazar9@gmail.com
+
 #include <iostream>
 #include "../include/SquareMat.hpp"
 

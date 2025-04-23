@@ -1,3 +1,5 @@
+//alizalazar9@gmail.com
+
 # cpp_EX2 - Square Matrix Operator Overloading
 
 ## Overview
@@ -14,7 +16,7 @@ This assignment demonstrates mastery of:
 
 
 ## Project Structure
-cpp_EX2/ ├── include/ │ └── SquareMat.hpp # Class declarations ├── src/ │ └── SquareMat.cpp # Class implementations ├── main/ │ └── main.cpp # Demonstration program ├── tests/ │ └── test_SquareMat.cpp # Unit tests using doctest ├── Makefile # Build and automation commands ├── README.md # This file └── submission.txt # For Moodle submission
+cpp_EX2/ ├── include/ │ └── SquareMat.hpp # Class declarations ├── src/ │ └── SquareMat.cpp # Class implementations ├── main/ │ └── main.cpp # Demonstration program ├── tests/ │ └── test_SquareMat.cpp # Unit tests using doctest ├── Makefile # Build and automation commands ├── README.md # This file └── 
 
 
 ## Features
