@@ -16,7 +16,20 @@ This assignment demonstrates mastery of:
 
 
 ## Project Structure
-cpp_EX2/ ├── include/ │ └── SquareMat.hpp # Class declarations ├── src/ │ └── SquareMat.cpp # Class implementations ├── main/ │ └── main.cpp # Demonstration program ├── tests/ │ └── test_SquareMat.cpp # Unit tests using doctest ├── Makefile # Build and automation commands ├── README.md # This file └── 
+cpp_EX2/
+├── include/
+│   └── SquareMat.hpp
+├── src/
+│   └── SquareMat.cpp
+├── main/
+│   └── main.cpp
+├── tests/
+│   ├── test_SquareMat.cpp
+│   └── doctest.h
+├── Makefile
+├── README.md
+├── test_exec
+└── main_exec
 
 
 ## Features
@@ -35,8 +48,6 @@ cpp_EX2/ ├── include/ │ └── SquareMat.hpp # Class declarations ├
 - Clear modular structure, ready for testing
 
 
-## Compilation & Run
-
 ### Build main demo:
 
 ```bash
@@ -51,9 +62,8 @@ make valgrind
 make clean
 
 
-## Author
 
-- Student ID: 336392899
+- Aliza lazar: 336392899
 - GitHub Repo:https://github.com/Alizanoa1234/cpp_EX2.git
 - Course: C++ Programming
 
