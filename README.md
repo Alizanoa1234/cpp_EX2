@@ -16,20 +16,22 @@ This assignment demonstrates mastery of:
 
 
 ## Project Structure
-cpp_EX2/
-├── include/
-│   └── SquareMat.hpp
-├── src/
-│   └── SquareMat.cpp
-├── main/
-│   └── main.cpp
-├── tests/
-│   ├── test_SquareMat.cpp
-│   └── doctest.h
-├── Makefile
-├── README.md
-├── test_exec
-└── main_exec
+## 📂 Project Structure
+
+- `cpp_EX2/`
+  - `include/`
+    - `SquareMat.hpp` — Class declarations
+  - `src/`
+    - `SquareMat.cpp` — Class implementations
+  - `main/`
+    - `main.cpp` — Demonstration program
+  - `tests/`
+    - `test_SquareMat.cpp` — Unit tests (using doctest)
+    - `doctest.h` — Testing framework header
+  - `Makefile` — Build and automation script
+  - `README.md` — Project documentation
+  - `submission.txt` — Submission metadata
+
 
 
 ## Features
