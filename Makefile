@@ -1,3 +1,4 @@
+##alizalazar9@gmail.com
 Main:
 	g++ -std=c++17 -Iinclude src/SquareMat.cpp main/main.cpp -o main_exec
 
